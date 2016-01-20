@@ -1,0 +1,5 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\20Dec2014\03Boat\bin\Debug\03Boat.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\20Dec2014\03Boat\bin\Debug\03Boat.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\20Dec2014\03Boat\bin\Debug\03Boat.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\20Dec2014\03Boat\obj\Debug\03Boat.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\20Dec2014\03Boat\obj\Debug\03Boat.pdb

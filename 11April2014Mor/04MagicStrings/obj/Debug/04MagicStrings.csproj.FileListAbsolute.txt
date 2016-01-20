@@ -1,0 +1,6 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\11April2014Mor\04MagicStrings\bin\Debug\04MagicStrings.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\11April2014Mor\04MagicStrings\bin\Debug\04MagicStrings.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\11April2014Mor\04MagicStrings\bin\Debug\04MagicStrings.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\11April2014Mor\04MagicStrings\obj\Debug\04MagicStrings.csprojResolveAssemblyReference.cache
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\11April2014Mor\04MagicStrings\obj\Debug\04MagicStrings.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\11April2014Mor\04MagicStrings\obj\Debug\04MagicStrings.pdb

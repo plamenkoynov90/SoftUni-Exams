@@ -1,0 +1,6 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\8Nov2014Exam\04Gambling\bin\Debug\04Gambling.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\8Nov2014Exam\04Gambling\obj\Debug\04Gambling.csprojResolveAssemblyReference.cache
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\8Nov2014Exam\04Gambling\bin\Debug\04Gambling.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\8Nov2014Exam\04Gambling\bin\Debug\04Gambling.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\8Nov2014Exam\04Gambling\obj\Debug\04Gambling.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\8Nov2014Exam\04Gambling\obj\Debug\04Gambling.pdb

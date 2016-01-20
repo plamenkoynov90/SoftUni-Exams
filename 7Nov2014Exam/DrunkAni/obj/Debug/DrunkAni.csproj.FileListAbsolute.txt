@@ -1,0 +1,6 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\7Nov2014Exam\DrunkAni\bin\Debug\DrunkAni.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\7Nov2014Exam\DrunkAni\bin\Debug\DrunkAni.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\7Nov2014Exam\DrunkAni\bin\Debug\DrunkAni.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\7Nov2014Exam\DrunkAni\obj\Debug\DrunkAni.csprojResolveAssemblyReference.cache
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\7Nov2014Exam\DrunkAni\obj\Debug\DrunkAni.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\7Nov2014Exam\DrunkAni\obj\Debug\DrunkAni.pdb

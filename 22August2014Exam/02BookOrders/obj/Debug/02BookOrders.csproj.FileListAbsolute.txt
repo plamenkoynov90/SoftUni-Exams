@@ -1,0 +1,6 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\22August2014Exam\02BookOrders\bin\Debug\02BookOrders.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\22August2014Exam\02BookOrders\bin\Debug\02BookOrders.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\22August2014Exam\02BookOrders\bin\Debug\02BookOrders.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\22August2014Exam\02BookOrders\obj\Debug\02BookOrders.csprojResolveAssemblyReference.cache
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\22August2014Exam\02BookOrders\obj\Debug\02BookOrders.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\22August2014Exam\02BookOrders\obj\Debug\02BookOrders.pdb

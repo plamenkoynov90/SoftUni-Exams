@@ -1,0 +1,6 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\28April2014\05FriendBits\bin\Debug\05FriendBits.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\28April2014\05FriendBits\bin\Debug\05FriendBits.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\28April2014\05FriendBits\bin\Debug\05FriendBits.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\28April2014\05FriendBits\obj\Debug\05FriendBits.csprojResolveAssemblyReference.cache
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\28April2014\05FriendBits\obj\Debug\05FriendBits.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\28April2014\05FriendBits\obj\Debug\05FriendBits.pdb

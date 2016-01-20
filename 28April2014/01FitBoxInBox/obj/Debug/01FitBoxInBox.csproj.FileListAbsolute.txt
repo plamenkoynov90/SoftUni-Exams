@@ -1,0 +1,6 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\28April2014\01FitBoxInBox\bin\Debug\01FitBoxInBox.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\28April2014\01FitBoxInBox\bin\Debug\01FitBoxInBox.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\28April2014\01FitBoxInBox\bin\Debug\01FitBoxInBox.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\28April2014\01FitBoxInBox\obj\Debug\01FitBoxInBox.csprojResolveAssemblyReference.cache
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\28April2014\01FitBoxInBox\obj\Debug\01FitBoxInBox.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\28April2014\01FitBoxInBox\obj\Debug\01FitBoxInBox.pdb

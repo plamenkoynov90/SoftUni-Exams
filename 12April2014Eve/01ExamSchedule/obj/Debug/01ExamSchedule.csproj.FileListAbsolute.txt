@@ -1,0 +1,6 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\12AprilEve\01ExamSchedule\bin\Debug\01ExamSchedule.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\12AprilEve\01ExamSchedule\obj\Debug\01ExamSchedule.csprojResolveAssemblyReference.cache
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\12AprilEve\01ExamSchedule\bin\Debug\01ExamSchedule.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\12AprilEve\01ExamSchedule\bin\Debug\01ExamSchedule.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\12AprilEve\01ExamSchedule\obj\Debug\01ExamSchedule.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\12AprilEve\01ExamSchedule\obj\Debug\01ExamSchedule.pdb

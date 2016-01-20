@@ -1,0 +1,5 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\10April2014Mor\03Sunglasses\bin\Debug\03Sunglasses.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\10April2014Mor\03Sunglasses\bin\Debug\03Sunglasses.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\10April2014Mor\03Sunglasses\bin\Debug\03Sunglasses.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\10April2014Mor\03Sunglasses\obj\Debug\03Sunglasses.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\10April2014Mor\03Sunglasses\obj\Debug\03Sunglasses.pdb

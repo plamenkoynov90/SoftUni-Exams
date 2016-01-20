@@ -1,0 +1,6 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\8November2015Exam\03LocalElections\bin\Debug\03LocalElections.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\8November2015Exam\03LocalElections\bin\Debug\03LocalElections.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\8November2015Exam\03LocalElections\bin\Debug\03LocalElections.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\8November2015Exam\03LocalElections\obj\Debug\03LocalElections.csprojResolveAssemblyReference.cache
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\8November2015Exam\03LocalElections\obj\Debug\03LocalElections.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\8November2015Exam\03LocalElections\obj\Debug\03LocalElections.pdb

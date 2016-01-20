@@ -1,0 +1,6 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\14April2014Mor\01FruitMarket\bin\Debug\01FruitMarket.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\14April2014Mor\01FruitMarket\bin\Debug\01FruitMarket.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\14April2014Mor\01FruitMarket\bin\Debug\01FruitMarket.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\14April2014Mor\01FruitMarket\obj\Debug\01FruitMarket.csprojResolveAssemblyReference.cache
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\14April2014Mor\01FruitMarket\obj\Debug\01FruitMarket.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\14April2014Mor\01FruitMarket\obj\Debug\01FruitMarket.pdb

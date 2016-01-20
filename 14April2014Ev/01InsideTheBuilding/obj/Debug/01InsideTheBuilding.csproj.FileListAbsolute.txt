@@ -1,0 +1,6 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\14April2014Ev\01InsideTheBuilding\bin\Debug\01InsideTheBuilding.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\14April2014Ev\01InsideTheBuilding\bin\Debug\01InsideTheBuilding.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\14April2014Ev\01InsideTheBuilding\bin\Debug\01InsideTheBuilding.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\14April2014Ev\01InsideTheBuilding\obj\Debug\01InsideTheBuilding.csprojResolveAssemblyReference.cache
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\14April2014Ev\01InsideTheBuilding\obj\Debug\01InsideTheBuilding.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\14April2014Ev\01InsideTheBuilding\obj\Debug\01InsideTheBuilding.pdb

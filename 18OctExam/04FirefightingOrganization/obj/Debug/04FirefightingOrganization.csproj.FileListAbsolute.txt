@@ -1,0 +1,5 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\18OctExam\04FirefightingOrganization\bin\Debug\04FirefightingOrganization.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\18OctExam\04FirefightingOrganization\bin\Debug\04FirefightingOrganization.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\18OctExam\04FirefightingOrganization\bin\Debug\04FirefightingOrganization.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\18OctExam\04FirefightingOrganization\obj\Debug\04FirefightingOrganization.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\18OctExam\04FirefightingOrganization\obj\Debug\04FirefightingOrganization.pdb

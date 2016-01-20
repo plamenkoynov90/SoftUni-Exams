@@ -1,0 +1,6 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\28April2014\03Disk\bin\Debug\03Disk.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\28April2014\03Disk\bin\Debug\03Disk.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\28April2014\03Disk\bin\Debug\03Disk.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\28April2014\03Disk\obj\Debug\03Disk.csprojResolveAssemblyReference.cache
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\28April2014\03Disk\obj\Debug\03Disk.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\28April2014\03Disk\obj\Debug\03Disk.pdb

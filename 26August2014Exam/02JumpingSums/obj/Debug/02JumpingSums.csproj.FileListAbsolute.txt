@@ -1,0 +1,6 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\26August2014Exam\02JumpingSums\bin\Debug\02JumpingSums.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\26August2014Exam\02JumpingSums\bin\Debug\02JumpingSums.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\26August2014Exam\02JumpingSums\bin\Debug\02JumpingSums.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\26August2014Exam\02JumpingSums\obj\Debug\02JumpingSums.csprojResolveAssemblyReference.cache
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\26August2014Exam\02JumpingSums\obj\Debug\02JumpingSums.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\26August2014Exam\02JumpingSums\obj\Debug\02JumpingSums.pdb

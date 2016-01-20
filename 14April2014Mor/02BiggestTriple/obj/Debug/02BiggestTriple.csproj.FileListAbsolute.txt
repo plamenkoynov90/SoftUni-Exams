@@ -1,0 +1,6 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\14April2014Mor\02BiggestTriple\bin\Debug\02BiggestTriple.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\14April2014Mor\02BiggestTriple\bin\Debug\02BiggestTriple.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\14April2014Mor\02BiggestTriple\bin\Debug\02BiggestTriple.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\14April2014Mor\02BiggestTriple\obj\Debug\02BiggestTriple.csprojResolveAssemblyReference.cache
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\14April2014Mor\02BiggestTriple\obj\Debug\02BiggestTriple.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\14April2014Mor\02BiggestTriple\obj\Debug\02BiggestTriple.pdb

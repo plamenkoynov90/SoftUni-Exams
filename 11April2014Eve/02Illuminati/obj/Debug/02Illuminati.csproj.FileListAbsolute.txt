@@ -1,0 +1,5 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\11April2014Eve\02Illuminati\bin\Debug\02Illuminati.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\11April2014Eve\02Illuminati\bin\Debug\02Illuminati.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\11April2014Eve\02Illuminati\bin\Debug\02Illuminati.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\11April2014Eve\02Illuminati\obj\Debug\02Illuminati.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\11April2014Eve\02Illuminati\obj\Debug\02Illuminati.pdb

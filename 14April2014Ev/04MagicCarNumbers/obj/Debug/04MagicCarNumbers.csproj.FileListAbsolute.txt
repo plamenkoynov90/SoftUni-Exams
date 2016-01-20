@@ -1,0 +1,6 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\14April2014Ev\04MagicCarNumbers\bin\Debug\04MagicCarNumbers.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\14April2014Ev\04MagicCarNumbers\bin\Debug\04MagicCarNumbers.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\14April2014Ev\04MagicCarNumbers\bin\Debug\04MagicCarNumbers.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\14April2014Ev\04MagicCarNumbers\obj\Debug\04MagicCarNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\14April2014Ev\04MagicCarNumbers\obj\Debug\04MagicCarNumbers.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\14April2014Ev\04MagicCarNumbers\obj\Debug\04MagicCarNumbers.pdb

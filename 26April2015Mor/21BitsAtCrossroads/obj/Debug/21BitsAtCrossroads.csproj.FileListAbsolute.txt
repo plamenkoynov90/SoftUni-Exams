@@ -1,0 +1,6 @@
+D:\SoftUni kurs\05.Operators-Expressions-And-Statements-Homework\Operators-Expressions-And-Statements\21BitsAtCrossroads\bin\Debug\21BitsAtCrossroads.exe.config
+D:\SoftUni kurs\05.Operators-Expressions-And-Statements-Homework\Operators-Expressions-And-Statements\21BitsAtCrossroads\bin\Debug\21BitsAtCrossroads.exe
+D:\SoftUni kurs\05.Operators-Expressions-And-Statements-Homework\Operators-Expressions-And-Statements\21BitsAtCrossroads\bin\Debug\21BitsAtCrossroads.pdb
+D:\SoftUni kurs\05.Operators-Expressions-And-Statements-Homework\Operators-Expressions-And-Statements\21BitsAtCrossroads\obj\Debug\21BitsAtCrossroads.csprojResolveAssemblyReference.cache
+D:\SoftUni kurs\05.Operators-Expressions-And-Statements-Homework\Operators-Expressions-And-Statements\21BitsAtCrossroads\obj\Debug\21BitsAtCrossroads.exe
+D:\SoftUni kurs\05.Operators-Expressions-And-Statements-Homework\Operators-Expressions-And-Statements\21BitsAtCrossroads\obj\Debug\21BitsAtCrossroads.pdb

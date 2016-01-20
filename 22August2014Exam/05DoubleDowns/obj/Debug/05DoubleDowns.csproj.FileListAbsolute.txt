@@ -1,0 +1,6 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\22August2014Exam\05DoubleDowns\bin\Debug\05DoubleDowns.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\22August2014Exam\05DoubleDowns\bin\Debug\05DoubleDowns.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\22August2014Exam\05DoubleDowns\bin\Debug\05DoubleDowns.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\22August2014Exam\05DoubleDowns\obj\Debug\05DoubleDowns.csprojResolveAssemblyReference.cache
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\22August2014Exam\05DoubleDowns\obj\Debug\05DoubleDowns.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\22August2014Exam\05DoubleDowns\obj\Debug\05DoubleDowns.pdb

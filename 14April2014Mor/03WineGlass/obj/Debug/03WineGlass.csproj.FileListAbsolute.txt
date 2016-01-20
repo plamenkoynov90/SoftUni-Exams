@@ -1,0 +1,6 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\14April2014Mor\03WineGlass\bin\Debug\03WineGlass.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\14April2014Mor\03WineGlass\bin\Debug\03WineGlass.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\14April2014Mor\03WineGlass\bin\Debug\03WineGlass.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\14April2014Mor\03WineGlass\obj\Debug\03WineGlass.csprojResolveAssemblyReference.cache
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\14April2014Mor\03WineGlass\obj\Debug\03WineGlass.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\14April2014Mor\03WineGlass\obj\Debug\03WineGlass.pdb

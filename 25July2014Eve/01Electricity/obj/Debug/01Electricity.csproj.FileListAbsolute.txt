@@ -1,0 +1,6 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\25July2014Eve\01Electricity\bin\Debug\01Electricity.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\25July2014Eve\01Electricity\bin\Debug\01Electricity.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\25July2014Eve\01Electricity\bin\Debug\01Electricity.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\25July2014Eve\01Electricity\obj\Debug\01Electricity.csprojResolveAssemblyReference.cache
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\25July2014Eve\01Electricity\obj\Debug\01Electricity.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\25July2014Eve\01Electricity\obj\Debug\01Electricity.pdb

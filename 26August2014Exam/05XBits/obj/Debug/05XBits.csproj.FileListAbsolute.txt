@@ -1,0 +1,6 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\26August2014Exam\05XBits\bin\Debug\05XBits.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\26August2014Exam\05XBits\bin\Debug\05XBits.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\26August2014Exam\05XBits\bin\Debug\05XBits.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\26August2014Exam\05XBits\obj\Debug\05XBits.csprojResolveAssemblyReference.cache
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\26August2014Exam\05XBits\obj\Debug\05XBits.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\26August2014Exam\05XBits\obj\Debug\05XBits.pdb

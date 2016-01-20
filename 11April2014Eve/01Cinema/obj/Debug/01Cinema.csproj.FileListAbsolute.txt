@@ -1,0 +1,6 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\11April2014Eve\01Cinema\bin\Debug\01Cinema.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\11April2014Eve\01Cinema\bin\Debug\01Cinema.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\11April2014Eve\01Cinema\bin\Debug\01Cinema.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\11April2014Eve\01Cinema\obj\Debug\01Cinema.csprojResolveAssemblyReference.cache
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\11April2014Eve\01Cinema\obj\Debug\01Cinema.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\11April2014Eve\01Cinema\obj\Debug\01Cinema.pdb

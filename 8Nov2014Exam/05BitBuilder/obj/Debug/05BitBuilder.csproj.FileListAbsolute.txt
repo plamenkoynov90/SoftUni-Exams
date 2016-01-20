@@ -1,0 +1,6 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\8Nov2014Exam\05BitBuilder\bin\Debug\05BitBuilder.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\8Nov2014Exam\05BitBuilder\bin\Debug\05BitBuilder.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\8Nov2014Exam\05BitBuilder\bin\Debug\05BitBuilder.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\8Nov2014Exam\05BitBuilder\obj\Debug\05BitBuilder.csprojResolveAssemblyReference.cache
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\8Nov2014Exam\05BitBuilder\obj\Debug\05BitBuilder.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\8Nov2014Exam\05BitBuilder\obj\Debug\05BitBuilder.pdb

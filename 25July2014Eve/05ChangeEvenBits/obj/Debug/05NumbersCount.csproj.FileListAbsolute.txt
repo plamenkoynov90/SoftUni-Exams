@@ -1,0 +1,6 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\25July2014Eve\05NumbersCount\bin\Debug\05NumbersCount.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\25July2014Eve\05NumbersCount\bin\Debug\05NumbersCount.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\25July2014Eve\05NumbersCount\bin\Debug\05NumbersCount.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\25July2014Eve\05NumbersCount\obj\Debug\05NumbersCount.csprojResolveAssemblyReference.cache
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\25July2014Eve\05NumbersCount\obj\Debug\05NumbersCount.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\25July2014Eve\05NumbersCount\obj\Debug\05NumbersCount.pdb

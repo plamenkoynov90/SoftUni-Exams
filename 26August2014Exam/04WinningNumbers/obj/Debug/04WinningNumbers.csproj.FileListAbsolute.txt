@@ -1,0 +1,6 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\26August2014Exam\04WinningNumbers\bin\Debug\04WinningNumbers.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\26August2014Exam\04WinningNumbers\bin\Debug\04WinningNumbers.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\26August2014Exam\04WinningNumbers\bin\Debug\04WinningNumbers.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\26August2014Exam\04WinningNumbers\obj\Debug\04WinningNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\26August2014Exam\04WinningNumbers\obj\Debug\04WinningNumbers.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\26August2014Exam\04WinningNumbers\obj\Debug\04WinningNumbers.pdb

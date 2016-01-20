@@ -1,0 +1,6 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\25July2014Eve\02OddAndEvenJumps\bin\Debug\02OddAndEvenJumps.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\25July2014Eve\02OddAndEvenJumps\bin\Debug\02OddAndEvenJumps.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\25July2014Eve\02OddAndEvenJumps\bin\Debug\02OddAndEvenJumps.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\25July2014Eve\02OddAndEvenJumps\obj\Debug\02OddAndEvenJumps.csprojResolveAssemblyReference.cache
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\25July2014Eve\02OddAndEvenJumps\obj\Debug\02OddAndEvenJumps.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\25July2014Eve\02OddAndEvenJumps\obj\Debug\02OddAndEvenJumps.pdb

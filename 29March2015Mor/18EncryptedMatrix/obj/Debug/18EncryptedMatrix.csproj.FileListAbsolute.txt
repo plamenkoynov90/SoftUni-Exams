@@ -1,0 +1,6 @@
+D:\SoftUni kurs\03.Primitive Data Types and Variables\Primitive-Data-Types-And-Variables\18EncryptedMatrix\bin\Debug\18EncryptedMatrix.exe.config
+D:\SoftUni kurs\03.Primitive Data Types and Variables\Primitive-Data-Types-And-Variables\18EncryptedMatrix\bin\Debug\18EncryptedMatrix.exe
+D:\SoftUni kurs\03.Primitive Data Types and Variables\Primitive-Data-Types-And-Variables\18EncryptedMatrix\bin\Debug\18EncryptedMatrix.pdb
+D:\SoftUni kurs\03.Primitive Data Types and Variables\Primitive-Data-Types-And-Variables\18EncryptedMatrix\obj\Debug\18EncryptedMatrix.csprojResolveAssemblyReference.cache
+D:\SoftUni kurs\03.Primitive Data Types and Variables\Primitive-Data-Types-And-Variables\18EncryptedMatrix\obj\Debug\18EncryptedMatrix.exe
+D:\SoftUni kurs\03.Primitive Data Types and Variables\Primitive-Data-Types-And-Variables\18EncryptedMatrix\obj\Debug\18EncryptedMatrix.pdb

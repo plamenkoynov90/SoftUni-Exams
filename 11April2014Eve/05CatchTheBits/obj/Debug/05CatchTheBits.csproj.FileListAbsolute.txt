@@ -1,0 +1,6 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\11April2014Eve\05CatchTheBits\bin\Debug\05CatchTheBits.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\11April2014Eve\05CatchTheBits\bin\Debug\05CatchTheBits.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\11April2014Eve\05CatchTheBits\bin\Debug\05CatchTheBits.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\11April2014Eve\05CatchTheBits\obj\Debug\05CatchTheBits.csprojResolveAssemblyReference.cache
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\11April2014Eve\05CatchTheBits\obj\Debug\05CatchTheBits.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\11April2014Eve\05CatchTheBits\obj\Debug\05CatchTheBits.pdb

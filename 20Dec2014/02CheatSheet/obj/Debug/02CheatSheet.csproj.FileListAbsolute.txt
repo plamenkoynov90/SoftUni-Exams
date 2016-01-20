@@ -1,0 +1,6 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\20Dec2014\02CheatSheet\bin\Debug\02CheatSheet.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\20Dec2014\02CheatSheet\bin\Debug\02CheatSheet.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\20Dec2014\02CheatSheet\bin\Debug\02CheatSheet.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\20Dec2014\02CheatSheet\obj\Debug\02CheatSheet.csprojResolveAssemblyReference.cache
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\20Dec2014\02CheatSheet\obj\Debug\02CheatSheet.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\20Dec2014\02CheatSheet\obj\Debug\02CheatSheet.pdb

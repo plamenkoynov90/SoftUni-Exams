@@ -1,0 +1,6 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\14April2014Ev\02StudentCables\bin\Debug\02StudentCables.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\14April2014Ev\02StudentCables\bin\Debug\02StudentCables.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\14April2014Ev\02StudentCables\bin\Debug\02StudentCables.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\14April2014Ev\02StudentCables\obj\Debug\02StudentCables.csprojResolveAssemblyReference.cache
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\14April2014Ev\02StudentCables\obj\Debug\02StudentCables.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\14April2014Ev\02StudentCables\obj\Debug\02StudentCables.pdb

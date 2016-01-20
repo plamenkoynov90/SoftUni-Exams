@@ -1,0 +1,6 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\8Nov2014Exam\02Numerology\bin\Debug\02Numerology.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\8Nov2014Exam\02Numerology\bin\Debug\02Numerology.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\8Nov2014Exam\02Numerology\bin\Debug\02Numerology.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\8Nov2014Exam\02Numerology\obj\Debug\02Numerology.csprojResolveAssemblyReference.cache
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\8Nov2014Exam\02Numerology\obj\Debug\02Numerology.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\8Nov2014Exam\02Numerology\obj\Debug\02Numerology.pdb

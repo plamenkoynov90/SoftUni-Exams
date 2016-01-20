@@ -1,0 +1,5 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\10April2014Mor\02HalfSum\bin\Debug\02HalfSum.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\10April2014Mor\02HalfSum\bin\Debug\02HalfSum.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\10April2014Mor\02HalfSum\bin\Debug\02HalfSum.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\10April2014Mor\02HalfSum\obj\Debug\02HalfSum.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\10April2014Mor\02HalfSum\obj\Debug\02HalfSum.pdb

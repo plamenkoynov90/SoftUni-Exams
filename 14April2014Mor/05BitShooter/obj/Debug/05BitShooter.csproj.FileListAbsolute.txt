@@ -1,0 +1,6 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\14April2014Mor\05BitShooter\bin\Debug\05BitShooter.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\14April2014Mor\05BitShooter\bin\Debug\05BitShooter.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\14April2014Mor\05BitShooter\bin\Debug\05BitShooter.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\14April2014Mor\05BitShooter\obj\Debug\05BitShooter.csprojResolveAssemblyReference.cache
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\14April2014Mor\05BitShooter\obj\Debug\05BitShooter.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\14April2014Mor\05BitShooter\obj\Debug\05BitShooter.pdb

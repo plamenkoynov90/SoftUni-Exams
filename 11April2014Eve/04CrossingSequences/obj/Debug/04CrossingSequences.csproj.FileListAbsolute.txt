@@ -1,0 +1,6 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\11April2014Eve\04CrossingSequences\bin\Debug\04CrossingSequences.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\11April2014Eve\04CrossingSequences\bin\Debug\04CrossingSequences.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\11April2014Eve\04CrossingSequences\bin\Debug\04CrossingSequences.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\11April2014Eve\04CrossingSequences\obj\Debug\04CrossingSequences.csprojResolveAssemblyReference.cache
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\11April2014Eve\04CrossingSequences\obj\Debug\04CrossingSequences.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\11April2014Eve\04CrossingSequences\obj\Debug\04CrossingSequences.pdb

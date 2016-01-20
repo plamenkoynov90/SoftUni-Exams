@@ -1,0 +1,6 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\14April2014Ev\05BitFlipper\bin\Debug\05BitFlipper.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\14April2014Ev\05BitFlipper\bin\Debug\05BitFlipper.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\14April2014Ev\05BitFlipper\bin\Debug\05BitFlipper.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\14April2014Ev\05BitFlipper\obj\Debug\05BitFlipper.csprojResolveAssemblyReference.cache
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\14April2014Ev\05BitFlipper\obj\Debug\05BitFlipper.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\14April2014Ev\05BitFlipper\obj\Debug\05BitFlipper.pdb

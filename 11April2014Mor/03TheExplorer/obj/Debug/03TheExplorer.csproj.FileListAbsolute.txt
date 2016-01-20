@@ -1,0 +1,5 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\11April2014Mor\03TheExplorer\bin\Debug\03TheExplorer.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\11April2014Mor\03TheExplorer\bin\Debug\03TheExplorer.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\11April2014Mor\03TheExplorer\bin\Debug\03TheExplorer.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\11April2014Mor\03TheExplorer\obj\Debug\03TheExplorer.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\11April2014Mor\03TheExplorer\obj\Debug\03TheExplorer.pdb

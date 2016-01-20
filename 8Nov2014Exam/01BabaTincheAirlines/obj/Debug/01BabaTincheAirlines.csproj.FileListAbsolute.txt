@@ -1,0 +1,6 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\8Nov2014Exam\01BabaTincheAirlines\bin\Debug\01BabaTincheAirlines.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\8Nov2014Exam\01BabaTincheAirlines\bin\Debug\01BabaTincheAirlines.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\8Nov2014Exam\01BabaTincheAirlines\bin\Debug\01BabaTincheAirlines.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\8Nov2014Exam\01BabaTincheAirlines\obj\Debug\01BabaTincheAirlines.csprojResolveAssemblyReference.cache
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\8Nov2014Exam\01BabaTincheAirlines\obj\Debug\01BabaTincheAirlines.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\8Nov2014Exam\01BabaTincheAirlines\obj\Debug\01BabaTincheAirlines.pdb

@@ -1,0 +1,6 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\18OctExam\02GrandTheftExamo\bin\Debug\02GrandTheftExamo.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\18OctExam\02GrandTheftExamo\bin\Debug\02GrandTheftExamo.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\18OctExam\02GrandTheftExamo\bin\Debug\02GrandTheftExamo.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\18OctExam\02GrandTheftExamo\obj\Debug\02GrandTheftExamo.csprojResolveAssemblyReference.cache
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\18OctExam\02GrandTheftExamo\obj\Debug\02GrandTheftExamo.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\18OctExam\02GrandTheftExamo\obj\Debug\02GrandTheftExamo.pdb

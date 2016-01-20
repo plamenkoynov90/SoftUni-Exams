@@ -1,0 +1,6 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\8Nov2014Exam\03RokLq\bin\Debug\03RokLq.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\8Nov2014Exam\03RokLq\bin\Debug\03RokLq.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\8Nov2014Exam\03RokLq\bin\Debug\03RokLq.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\8Nov2014Exam\03RokLq\obj\Debug\03RokLq.csprojResolveAssemblyReference.cache
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\8Nov2014Exam\03RokLq\obj\Debug\03RokLq.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\8Nov2014Exam\03RokLq\obj\Debug\03RokLq.pdb

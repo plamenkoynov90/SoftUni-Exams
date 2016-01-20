@@ -1,0 +1,6 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\22August2014Exam\04ChessQueens\bin\Debug\04ChessQueens.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\22August2014Exam\04ChessQueens\bin\Debug\04ChessQueens.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\22August2014Exam\04ChessQueens\bin\Debug\04ChessQueens.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\22August2014Exam\04ChessQueens\obj\Debug\04ChessQueens.csprojResolveAssemblyReference.cache
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\22August2014Exam\04ChessQueens\obj\Debug\04ChessQueens.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\22August2014Exam\04ChessQueens\obj\Debug\04ChessQueens.pdb

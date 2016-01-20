@@ -1,0 +1,6 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\28April2014\02SequenceOfKNumbers\bin\Debug\02SequenceOfKNumbers.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\28April2014\02SequenceOfKNumbers\bin\Debug\02SequenceOfKNumbers.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\28April2014\02SequenceOfKNumbers\bin\Debug\02SequenceOfKNumbers.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\28April2014\02SequenceOfKNumbers\obj\Debug\02SequenceOfKNumbers.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\28April2014\02SequenceOfKNumbers\obj\Debug\02SequenceOfKNumbers.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\28April2014\02SequenceOfKNumbers\obj\Debug\02SequenceOfKNumbers.csprojResolveAssemblyReference.cache

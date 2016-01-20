@@ -1,0 +1,6 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\19DecExam2014\01TravellerBob\bin\Debug\01TravellerBob.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\19DecExam2014\01TravellerBob\bin\Debug\01TravellerBob.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\19DecExam2014\01TravellerBob\bin\Debug\01TravellerBob.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\19DecExam2014\01TravellerBob\obj\Debug\01TravellerBob.csprojResolveAssemblyReference.cache
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\19DecExam2014\01TravellerBob\obj\Debug\01TravellerBob.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\19DecExam2014\01TravellerBob\obj\Debug\01TravellerBob.pdb

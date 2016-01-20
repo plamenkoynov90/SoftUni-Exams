@@ -1,0 +1,6 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\10April2014Mor\04NineDigitMagicNumbers\bin\Debug\04NineDigitMagicNumbers.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\10April2014Mor\04NineDigitMagicNumbers\bin\Debug\04NineDigitMagicNumbers.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\10April2014Mor\04NineDigitMagicNumbers\bin\Debug\04NineDigitMagicNumbers.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\10April2014Mor\04NineDigitMagicNumbers\obj\Debug\04NineDigitMagicNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\10April2014Mor\04NineDigitMagicNumbers\obj\Debug\04NineDigitMagicNumbers.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\10April2014Mor\04NineDigitMagicNumbers\obj\Debug\04NineDigitMagicNumbers.pdb

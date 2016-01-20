@@ -1,0 +1,6 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\30August2015Exam\05WaveBits\bin\Debug\05WaveBits.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\30August2015Exam\05WaveBits\bin\Debug\05WaveBits.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\30August2015Exam\05WaveBits\bin\Debug\05WaveBits.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\30August2015Exam\05WaveBits\obj\Debug\05WaveBits.csprojResolveAssemblyReference.cache
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\30August2015Exam\05WaveBits\obj\Debug\05WaveBits.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\30August2015Exam\05WaveBits\obj\Debug\05WaveBits.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni kurs\05.Operators-Expressions-And-Statements-Homework\Operators-Expressions-And-Statements\17BookProblem\bin\Debug\17BookProblem.exe.config
+D:\SoftUni kurs\05.Operators-Expressions-And-Statements-Homework\Operators-Expressions-And-Statements\17BookProblem\bin\Debug\17BookProblem.exe
+D:\SoftUni kurs\05.Operators-Expressions-And-Statements-Homework\Operators-Expressions-And-Statements\17BookProblem\bin\Debug\17BookProblem.pdb
+D:\SoftUni kurs\05.Operators-Expressions-And-Statements-Homework\Operators-Expressions-And-Statements\17BookProblem\obj\Debug\17BookProblem.csprojResolveAssemblyReference.cache
+D:\SoftUni kurs\05.Operators-Expressions-And-Statements-Homework\Operators-Expressions-And-Statements\17BookProblem\obj\Debug\17BookProblem.exe
+D:\SoftUni kurs\05.Operators-Expressions-And-Statements-Homework\Operators-Expressions-And-Statements\17BookProblem\obj\Debug\17BookProblem.pdb

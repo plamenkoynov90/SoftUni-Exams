@@ -1,0 +1,6 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\18OctExam\05BohemchoTheBadGhost\bin\Debug\05BohemchoTheBadGhost.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\18OctExam\05BohemchoTheBadGhost\bin\Debug\05BohemchoTheBadGhost.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\18OctExam\05BohemchoTheBadGhost\bin\Debug\05BohemchoTheBadGhost.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\18OctExam\05BohemchoTheBadGhost\obj\Debug\05BohemchoTheBadGhost.csprojResolveAssemblyReference.cache
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\18OctExam\05BohemchoTheBadGhost\obj\Debug\05BohemchoTheBadGhost.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\18OctExam\05BohemchoTheBadGhost\obj\Debug\05BohemchoTheBadGhost.pdb

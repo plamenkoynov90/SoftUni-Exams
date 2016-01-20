@@ -1,0 +1,6 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\10April2014Eve\05BitsUp\bin\Debug\05BitsUp.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\10April2014Eve\05BitsUp\bin\Debug\05BitsUp.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\10April2014Eve\05BitsUp\bin\Debug\05BitsUp.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\10April2014Eve\05BitsUp\obj\Debug\05BitsUp.csprojResolveAssemblyReference.cache
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\10April2014Eve\05BitsUp\obj\Debug\05BitsUp.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\10April2014Eve\05BitsUp\obj\Debug\05BitsUp.pdb

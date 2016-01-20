@@ -1,0 +1,6 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\20Dec2014\01PiggyBank\bin\Debug\01PiggyBank.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\20Dec2014\01PiggyBank\bin\Debug\01PiggyBank.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\20Dec2014\01PiggyBank\bin\Debug\01PiggyBank.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\20Dec2014\01PiggyBank\obj\Debug\01PiggyBank.csprojResolveAssemblyReference.cache
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\20Dec2014\01PiggyBank\obj\Debug\01PiggyBank.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\20Dec2014\01PiggyBank\obj\Debug\01PiggyBank.pdb

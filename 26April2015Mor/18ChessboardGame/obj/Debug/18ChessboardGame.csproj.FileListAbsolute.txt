@@ -1,0 +1,6 @@
+D:\SoftUni kurs\05.Operators-Expressions-And-Statements-Homework\Operators-Expressions-And-Statements\18ChessboardGame\bin\Debug\18ChessboardGame.exe.config
+D:\SoftUni kurs\05.Operators-Expressions-And-Statements-Homework\Operators-Expressions-And-Statements\18ChessboardGame\bin\Debug\18ChessboardGame.exe
+D:\SoftUni kurs\05.Operators-Expressions-And-Statements-Homework\Operators-Expressions-And-Statements\18ChessboardGame\bin\Debug\18ChessboardGame.pdb
+D:\SoftUni kurs\05.Operators-Expressions-And-Statements-Homework\Operators-Expressions-And-Statements\18ChessboardGame\obj\Debug\18ChessboardGame.csprojResolveAssemblyReference.cache
+D:\SoftUni kurs\05.Operators-Expressions-And-Statements-Homework\Operators-Expressions-And-Statements\18ChessboardGame\obj\Debug\18ChessboardGame.exe
+D:\SoftUni kurs\05.Operators-Expressions-And-Statements-Homework\Operators-Expressions-And-Statements\18ChessboardGame\obj\Debug\18ChessboardGame.pdb

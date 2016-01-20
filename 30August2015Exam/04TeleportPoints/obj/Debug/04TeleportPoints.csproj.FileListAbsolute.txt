@@ -1,0 +1,6 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\30August2015Exam\04TeleportPoints\bin\Debug\04TeleportPoints.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\30August2015Exam\04TeleportPoints\bin\Debug\04TeleportPoints.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\30August2015Exam\04TeleportPoints\bin\Debug\04TeleportPoints.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\30August2015Exam\04TeleportPoints\obj\Debug\04TeleportPoints.csprojResolveAssemblyReference.cache
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\30August2015Exam\04TeleportPoints\obj\Debug\04TeleportPoints.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\30August2015Exam\04TeleportPoints\obj\Debug\04TeleportPoints.pdb

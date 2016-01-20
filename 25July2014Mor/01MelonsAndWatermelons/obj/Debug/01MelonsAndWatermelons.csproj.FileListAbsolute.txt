@@ -1,0 +1,6 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\25July2014Mor\01MelonsAndWatermelons\bin\Debug\01MelonsAndWatermelons.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\25July2014Mor\01MelonsAndWatermelons\bin\Debug\01MelonsAndWatermelons.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\25July2014Mor\01MelonsAndWatermelons\bin\Debug\01MelonsAndWatermelons.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\25July2014Mor\01MelonsAndWatermelons\obj\Debug\01MelonsAndWatermelons.csprojResolveAssemblyReference.cache
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\25July2014Mor\01MelonsAndWatermelons\obj\Debug\01MelonsAndWatermelons.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\25July2014Mor\01MelonsAndWatermelons\obj\Debug\01MelonsAndWatermelons.pdb

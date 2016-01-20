@@ -1,0 +1,6 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\19DecExam2014\04SpiralMatrix\bin\Debug\04SpiralMatrix.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\19DecExam2014\04SpiralMatrix\bin\Debug\04SpiralMatrix.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\19DecExam2014\04SpiralMatrix\bin\Debug\04SpiralMatrix.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\19DecExam2014\04SpiralMatrix\obj\Debug\04SpiralMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\19DecExam2014\04SpiralMatrix\obj\Debug\04SpiralMatrix.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\19DecExam2014\04SpiralMatrix\obj\Debug\04SpiralMatrix.pdb

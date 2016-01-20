@@ -1,0 +1,5 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\12April2014Mor\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\12April2014Mor\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\12April2014Mor\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\12April2014Mor\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\12April2014Mor\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

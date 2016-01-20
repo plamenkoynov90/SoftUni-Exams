@@ -1,0 +1,6 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\10April2014Mor\01JoroTheFootballPlayer\bin\Debug\01JoroTheFootballPlayer.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\10April2014Mor\01JoroTheFootballPlayer\bin\Debug\01JoroTheFootballPlayer.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\10April2014Mor\01JoroTheFootballPlayer\bin\Debug\01JoroTheFootballPlayer.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\10April2014Mor\01JoroTheFootballPlayer\obj\Debug\01JoroTheFootballPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\10April2014Mor\01JoroTheFootballPlayer\obj\Debug\01JoroTheFootballPlayer.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\10April2014Mor\01JoroTheFootballPlayer\obj\Debug\01JoroTheFootballPlayer.pdb

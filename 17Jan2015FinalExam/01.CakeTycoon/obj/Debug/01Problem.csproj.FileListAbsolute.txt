@@ -1,0 +1,6 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\FinalExam\01Problem\bin\Debug\01Problem.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\FinalExam\01Problem\bin\Debug\01Problem.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\FinalExam\01Problem\bin\Debug\01Problem.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\FinalExam\01Problem\obj\Debug\01Problem.csprojResolveAssemblyReference.cache
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\FinalExam\01Problem\obj\Debug\01Problem.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\FinalExam\01Problem\obj\Debug\01Problem.pdb

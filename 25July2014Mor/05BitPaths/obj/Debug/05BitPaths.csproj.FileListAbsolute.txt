@@ -1,0 +1,6 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\25July2014Mor\05BitPaths\bin\Debug\05BitPaths.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\25July2014Mor\05BitPaths\bin\Debug\05BitPaths.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\25July2014Mor\05BitPaths\bin\Debug\05BitPaths.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\25July2014Mor\05BitPaths\obj\Debug\05BitPaths.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\25July2014Mor\05BitPaths\obj\Debug\05BitPaths.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\25July2014Mor\05BitPaths\obj\Debug\05BitPaths.csprojResolveAssemblyReference.cache

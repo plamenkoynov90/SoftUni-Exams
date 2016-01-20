@@ -1,0 +1,5 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\FinalExam\04Problem\bin\Debug\04Problem.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\FinalExam\04Problem\bin\Debug\04Problem.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\FinalExam\04Problem\bin\Debug\04Problem.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\FinalExam\04Problem\obj\Debug\04Problem.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\FinalExam\04Problem\obj\Debug\04Problem.pdb

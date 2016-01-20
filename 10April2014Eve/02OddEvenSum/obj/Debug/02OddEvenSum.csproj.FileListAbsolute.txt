@@ -1,0 +1,5 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\10April2014Eve\02OddEvenSum\bin\Debug\02OddEvenSum.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\10April2014Eve\02OddEvenSum\bin\Debug\02OddEvenSum.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\10April2014Eve\02OddEvenSum\bin\Debug\02OddEvenSum.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\10April2014Eve\02OddEvenSum\obj\Debug\02OddEvenSum.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\10April2014Eve\02OddEvenSum\obj\Debug\02OddEvenSum.pdb

@@ -1,0 +1,5 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\26August2014Exam\03Star\bin\Debug\03Star.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\26August2014Exam\03Star\bin\Debug\03Star.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\26August2014Exam\03Star\bin\Debug\03Star.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\26August2014Exam\03Star\obj\Debug\03Star.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\26August2014Exam\03Star\obj\Debug\03Star.pdb

@@ -1,0 +1,6 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\19DecExam2014\05PaintBall\bin\Debug\05PaintBall.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\19DecExam2014\05PaintBall\bin\Debug\05PaintBall.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\19DecExam2014\05PaintBall\bin\Debug\05PaintBall.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\19DecExam2014\05PaintBall\obj\Debug\05PaintBall.csprojResolveAssemblyReference.cache
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\19DecExam2014\05PaintBall\obj\Debug\05PaintBall.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\19DecExam2014\05PaintBall\obj\Debug\05PaintBall.pdb

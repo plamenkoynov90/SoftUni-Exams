@@ -1,0 +1,6 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\12AprilEve\02OddOrEvenElements\bin\Debug\02OddOrEvenElements.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\12AprilEve\02OddOrEvenElements\bin\Debug\02OddOrEvenElements.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\12AprilEve\02OddOrEvenElements\bin\Debug\02OddOrEvenElements.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\12AprilEve\02OddOrEvenElements\obj\Debug\02OddOrEvenElements.csprojResolveAssemblyReference.cache
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\12AprilEve\02OddOrEvenElements\obj\Debug\02OddOrEvenElements.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\12AprilEve\02OddOrEvenElements\obj\Debug\02OddOrEvenElements.pdb

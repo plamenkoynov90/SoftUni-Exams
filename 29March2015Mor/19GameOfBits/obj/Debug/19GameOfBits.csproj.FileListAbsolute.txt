@@ -1,0 +1,6 @@
+D:\SoftUni kurs\03.Primitive Data Types and Variables\Primitive-Data-Types-And-Variables\19GameOfBits\bin\Debug\19GameOfBits.exe.config
+D:\SoftUni kurs\03.Primitive Data Types and Variables\Primitive-Data-Types-And-Variables\19GameOfBits\bin\Debug\19GameOfBits.exe
+D:\SoftUni kurs\03.Primitive Data Types and Variables\Primitive-Data-Types-And-Variables\19GameOfBits\bin\Debug\19GameOfBits.pdb
+D:\SoftUni kurs\03.Primitive Data Types and Variables\Primitive-Data-Types-And-Variables\19GameOfBits\obj\Debug\19GameOfBits.csprojResolveAssemblyReference.cache
+D:\SoftUni kurs\03.Primitive Data Types and Variables\Primitive-Data-Types-And-Variables\19GameOfBits\obj\Debug\19GameOfBits.exe
+D:\SoftUni kurs\03.Primitive Data Types and Variables\Primitive-Data-Types-And-Variables\19GameOfBits\obj\Debug\19GameOfBits.pdb

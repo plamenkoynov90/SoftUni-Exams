@@ -1,0 +1,6 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\11April2014Mor\05BitsSifting\bin\Debug\05BitsSifting.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\11April2014Mor\05BitsSifting\obj\Debug\05BitsSifting.csprojResolveAssemblyReference.cache
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\11April2014Mor\05BitsSifting\bin\Debug\05BitsSifting.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\11April2014Mor\05BitsSifting\bin\Debug\05BitsSifting.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\11April2014Mor\05BitsSifting\obj\Debug\05BitsSifting.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\11April2014Mor\05BitsSifting\obj\Debug\05BitsSifting.pdb

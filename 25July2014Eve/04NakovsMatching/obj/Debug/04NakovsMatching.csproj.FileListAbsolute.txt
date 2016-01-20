@@ -1,0 +1,6 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\25July2014Eve\04NakovsMatching\bin\Debug\04NakovsMatching.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\25July2014Eve\04NakovsMatching\bin\Debug\04NakovsMatching.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\25July2014Eve\04NakovsMatching\bin\Debug\04NakovsMatching.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\25July2014Eve\04NakovsMatching\obj\Debug\04NakovsMatching.csprojResolveAssemblyReference.cache
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\25July2014Eve\04NakovsMatching\obj\Debug\04NakovsMatching.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\25July2014Eve\04NakovsMatching\obj\Debug\04NakovsMatching.pdb

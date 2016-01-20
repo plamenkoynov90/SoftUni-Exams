@@ -1,0 +1,3 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\7Nov2014Exam\02WeirdCombinations\bin\Debug\02WeirdCombinations.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\7Nov2014Exam\02WeirdCombinations\obj\Debug\02WeirdCombinations.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\7Nov2014Exam\02WeirdCombinations\obj\Debug\02WeirdCombinations.pdb

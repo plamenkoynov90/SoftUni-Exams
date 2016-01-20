@@ -1,0 +1,6 @@
+D:\SoftUni kurs\05.Operators-Expressions-And-Statements-Homework\Operators-Expressions-And-Statements\20DecryptTheMessages\bin\Debug\20DecryptTheMessages.exe.config
+D:\SoftUni kurs\05.Operators-Expressions-And-Statements-Homework\Operators-Expressions-And-Statements\20DecryptTheMessages\bin\Debug\20DecryptTheMessages.exe
+D:\SoftUni kurs\05.Operators-Expressions-And-Statements-Homework\Operators-Expressions-And-Statements\20DecryptTheMessages\bin\Debug\20DecryptTheMessages.pdb
+D:\SoftUni kurs\05.Operators-Expressions-And-Statements-Homework\Operators-Expressions-And-Statements\20DecryptTheMessages\obj\Debug\20DecryptTheMessages.csprojResolveAssemblyReference.cache
+D:\SoftUni kurs\05.Operators-Expressions-And-Statements-Homework\Operators-Expressions-And-Statements\20DecryptTheMessages\obj\Debug\20DecryptTheMessages.exe
+D:\SoftUni kurs\05.Operators-Expressions-And-Statements-Homework\Operators-Expressions-And-Statements\20DecryptTheMessages\obj\Debug\20DecryptTheMessages.pdb

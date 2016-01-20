@@ -1,0 +1,5 @@
+D:\SoftUni kurs\05.Operators-Expressions-And-Statements-Homework\Operators-Expressions-And-Statements\19KingOfThieves\bin\Debug\19KingOfThieves.exe.config
+D:\SoftUni kurs\05.Operators-Expressions-And-Statements-Homework\Operators-Expressions-And-Statements\19KingOfThieves\bin\Debug\19KingOfThieves.exe
+D:\SoftUni kurs\05.Operators-Expressions-And-Statements-Homework\Operators-Expressions-And-Statements\19KingOfThieves\bin\Debug\19KingOfThieves.pdb
+D:\SoftUni kurs\05.Operators-Expressions-And-Statements-Homework\Operators-Expressions-And-Statements\19KingOfThieves\obj\Debug\19KingOfThieves.exe
+D:\SoftUni kurs\05.Operators-Expressions-And-Statements-Homework\Operators-Expressions-And-Statements\19KingOfThieves\obj\Debug\19KingOfThieves.pdb

@@ -1,0 +1,5 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\25July2014Mor\03PandaScotlandFlag\bin\Debug\03PandaScotlandFlag.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\25July2014Mor\03PandaScotlandFlag\bin\Debug\03PandaScotlandFlag.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\25July2014Mor\03PandaScotlandFlag\bin\Debug\03PandaScotlandFlag.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\25July2014Mor\03PandaScotlandFlag\obj\Debug\03PandaScotlandFlag.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\25July2014Mor\03PandaScotlandFlag\obj\Debug\03PandaScotlandFlag.pdb

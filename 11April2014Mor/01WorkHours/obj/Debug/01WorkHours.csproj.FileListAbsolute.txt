@@ -1,0 +1,6 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\11April2014Mor\01WorkHours\bin\Debug\01WorkHours.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\11April2014Mor\01WorkHours\bin\Debug\01WorkHours.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\11April2014Mor\01WorkHours\bin\Debug\01WorkHours.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\11April2014Mor\01WorkHours\obj\Debug\01WorkHours.csprojResolveAssemblyReference.cache
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\11April2014Mor\01WorkHours\obj\Debug\01WorkHours.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\11April2014Mor\01WorkHours\obj\Debug\01WorkHours.pdb

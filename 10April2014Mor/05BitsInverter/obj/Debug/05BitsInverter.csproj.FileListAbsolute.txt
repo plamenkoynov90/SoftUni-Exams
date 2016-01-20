@@ -1,0 +1,6 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\10April2014Mor\05BitsInverter\bin\Debug\05BitsInverter.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\10April2014Mor\05BitsInverter\bin\Debug\05BitsInverter.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\10April2014Mor\05BitsInverter\bin\Debug\05BitsInverter.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\10April2014Mor\05BitsInverter\obj\Debug\05BitsInverter.csprojResolveAssemblyReference.cache
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\10April2014Mor\05BitsInverter\obj\Debug\05BitsInverter.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\10April2014Mor\05BitsInverter\obj\Debug\05BitsInverter.pdb

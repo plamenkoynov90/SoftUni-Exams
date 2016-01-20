@@ -1,0 +1,6 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\7Nov2014Exam\05HalfByteSwapper\bin\Debug\05HalfByteSwapper.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\7Nov2014Exam\05HalfByteSwapper\bin\Debug\05HalfByteSwapper.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\7Nov2014Exam\05HalfByteSwapper\bin\Debug\05HalfByteSwapper.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\7Nov2014Exam\05HalfByteSwapper\obj\Debug\05HalfByteSwapper.csprojResolveAssemblyReference.cache
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\7Nov2014Exam\05HalfByteSwapper\obj\Debug\05HalfByteSwapper.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\7Nov2014Exam\05HalfByteSwapper\obj\Debug\05HalfByteSwapper.pdb

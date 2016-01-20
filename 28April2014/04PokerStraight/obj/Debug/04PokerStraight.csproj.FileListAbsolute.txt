@@ -1,0 +1,6 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\28April2014\04PokerStraight\bin\Debug\04PokerStraight.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\28April2014\04PokerStraight\bin\Debug\04PokerStraight.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\28April2014\04PokerStraight\bin\Debug\04PokerStraight.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\28April2014\04PokerStraight\obj\Debug\04PokerStraight.csprojResolveAssemblyReference.cache
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\28April2014\04PokerStraight\obj\Debug\04PokerStraight.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\28April2014\04PokerStraight\obj\Debug\04PokerStraight.pdb

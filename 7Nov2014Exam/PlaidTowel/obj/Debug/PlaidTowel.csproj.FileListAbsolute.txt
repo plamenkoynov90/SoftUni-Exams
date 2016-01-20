@@ -1,0 +1,6 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\7Nov2014Exam\PlaidTowel\bin\Debug\PlaidTowel.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\7Nov2014Exam\PlaidTowel\bin\Debug\PlaidTowel.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\7Nov2014Exam\PlaidTowel\bin\Debug\PlaidTowel.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\7Nov2014Exam\PlaidTowel\obj\Debug\PlaidTowel.csprojResolveAssemblyReference.cache
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\7Nov2014Exam\PlaidTowel\obj\Debug\PlaidTowel.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\7Nov2014Exam\PlaidTowel\obj\Debug\PlaidTowel.pdb

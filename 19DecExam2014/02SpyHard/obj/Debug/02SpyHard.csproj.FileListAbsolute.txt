@@ -1,0 +1,6 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\19DecExam2014\02SpyHard\bin\Debug\02SpyHard.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\19DecExam2014\02SpyHard\bin\Debug\02SpyHard.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\19DecExam2014\02SpyHard\bin\Debug\02SpyHard.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\19DecExam2014\02SpyHard\obj\Debug\02SpyHard.csprojResolveAssemblyReference.cache
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\19DecExam2014\02SpyHard\obj\Debug\02SpyHard.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\19DecExam2014\02SpyHard\obj\Debug\02SpyHard.pdb

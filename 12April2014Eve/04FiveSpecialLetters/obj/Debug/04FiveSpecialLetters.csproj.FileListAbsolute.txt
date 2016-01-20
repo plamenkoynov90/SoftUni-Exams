@@ -1,0 +1,6 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\12AprilEve\04FiveSpecialLetters\bin\Debug\04FiveSpecialLetters.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\12AprilEve\04FiveSpecialLetters\bin\Debug\04FiveSpecialLetters.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\12AprilEve\04FiveSpecialLetters\bin\Debug\04FiveSpecialLetters.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\12AprilEve\04FiveSpecialLetters\obj\Debug\04FiveSpecialLetters.csprojResolveAssemblyReference.cache
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\12AprilEve\04FiveSpecialLetters\obj\Debug\04FiveSpecialLetters.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\12AprilEve\04FiveSpecialLetters\obj\Debug\04FiveSpecialLetters.pdb

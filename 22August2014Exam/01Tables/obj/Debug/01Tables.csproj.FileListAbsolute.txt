@@ -1,0 +1,6 @@
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\22August2014Exam\01Tables\bin\Debug\01Tables.exe.config
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\22August2014Exam\01Tables\bin\Debug\01Tables.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\22August2014Exam\01Tables\bin\Debug\01Tables.pdb
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\22August2014Exam\01Tables\obj\Debug\01Tables.csprojResolveAssemblyReference.cache
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\22August2014Exam\01Tables\obj\Debug\01Tables.exe
+C:\Users\Gufi\Documents\Visual Studio 2015\Projects\22August2014Exam\01Tables\obj\Debug\01Tables.pdb
